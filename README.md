@@ -23,12 +23,12 @@ Application Android qui affiche une liste de contacts dans une `ListView` et per
 
 ### 1. Création du projet
 
-![Création du projet](screenshots/01-creation-projet.png)
+![Création du projet](screenshots/0.png)
 
 ### 2. Suppression d'un contact avec confirmation
 
-![Suppression avec dialogue de confirmation](screenshots/02-suppression-dialogue.png)
+![Suppression avec dialogue de confirmation](screenshots/1.png)
 
 ### 3. Ajout d'un contact et liste triée
 
-![Ajout et tri de la liste](screenshots/03-ajout-tri-liste.png)
+![Ajout et tri de la liste](screenshots/2.png)
